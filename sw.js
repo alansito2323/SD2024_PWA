@@ -3,6 +3,7 @@ const cache_name = "v1_cache_pwa";
 
 var urlsToCache = [
     './',
+    './styles/styles.css',
     './img/icon/Dukiii16.png',
     './img/icon/Dukiii23.png',
     './img/icon/Dukiii64.png',
@@ -13,6 +14,14 @@ var urlsToCache = [
     './img/icon/Dukiii384.png',
     './img/icon/Dukiii512.png',
     './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    './img/icon/Dukiii1024.png',
+    
 ]
 
 self.addEventListener('install',e => {
