@@ -21,6 +21,9 @@ var urlsToCache = [
     './img/icon/Dukiii1024.png',
     './img/icon/Dukiii1024.png',
     './img/icon/Dukiii1024.png',
+    './img/icon/TSU TI González Real Alan Gabriel 1121150036 t.jpg',
+    './img/icon/purchasing.png',
+    './img/icon/SMTC',
     
 ]
 
